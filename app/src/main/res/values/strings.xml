@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Щёлк!</string>
+    <string name="menu_mode0">Стандартная зона</string>
+    <string name="menu_mode1">Черная зона</string>
+    <string name="menu_mode2">Слепая зона</string>
+    <string name="menu_mode3">Стабильная зона</string>
+    <string name="menu_mode4">Катастрофическая зона</string>
+    <string name="menu_mode0_label"></string>
+    <string name="menu_mode1_label">Пройти 22 уровня и получить 2 ключа</string>
+    <string name="menu_mode2_label">Пройти 66, 44 и 22 уровня в Стандартной, Черной и Стабильной зонах, собрав 24 ключа</string>
+    <string name="menu_mode3_label">Пройти 44 обычных уровня, 22 уровня в Черной Зоне, собрав 8 ключей</string>
+    <string name="menu_mode4_label">Пройти 88, 66, 44 и 22 уровня в Стандартной, Черной, Стабильной и Слепой зонах, собрав 48 ключей</string>
+    <string name="menu_options">Настройки</string>
+    <string name="menu_help">Как играть</string>
+    <string name="menu_exit">Выход</string>
+    <string name="PREF_FILE_LEVELS">Levels</string>
+    <string name="PREF_FILE_PROGRESS">Progress</string>
+    <string name="PREF_FILE_OPTIONS">Options</string>
+    <string name="PREF_FILE_HELP">Help</string>
+    <string name="PREF_LEVELS_M1">MODE1_ENABLED</string>
+    <string name="PREF_LEVELS_M2">MODE2_ENABLED</string>
+    <string name="PREF_LEVELS_M3">MODE3_ENABLED</string>
+    <string name="PREF_LEVELS_M4">MODE4_ENABLED</string>
+    <string name="PREF_PROGRESS_IS_FIRST_ENTRY">IsFirstEntry</string>
+    <string name="PREF_PROGRESS_COUNT_KEYS_BLUE">KeysBlue</string>
+    <string name="PREF_PROGRESS_COUNT_KEYS_RED">KeysRed</string>
+    <string name="PREF_OPTIONS_VOLUME_SOUNDS">Sounds</string>
+    <string name="PREF_OPTIONS_VOLUME_MUSIC">Music</string>
+    <string name="PREF_OPTIONS_IS_SWIPE">Swipe</string>
+    <string name="PREF_OPTIONS_IS_PURITY_MODE">Mode_purity</string>
+</resources>

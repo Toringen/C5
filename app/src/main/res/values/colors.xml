@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="light_font">#FFF</color>
+    <color name="grey_font">#9E9E9E</color>
+    <color name="menu_text_shadow">#F00</color>
+    <color name="menu_text_shadow_white">#FFF</color>
+    <color name="game_achievement">#FFDD11</color>
+    <color name="button_cleared">#008800</color>
+    <color name="button_disabled">#6688AA</color>
+    <color name="optionsSeekBarMusic">#222</color>
+    <color name="optionsSeekBarSounds">#222</color>
+    <color name="colorRoyalBlue">#48F</color>
+    <color name="colorB0">#AFFF</color>
+    <color name="colorB1">#AE04</color>
+    <color name="colorB2">#A01C</color>
+    <color name="colorB3">#A0A0</color>
+    <color name="colorB4">#AFB0</color>
+    <color name="colorB5">#AA0B</color>
+    <color name="colorB6">#AFFF</color>
+    <color name="colorB7">#A111</color>
+    <color name="colorB8">#A999</color>
+</resources>
